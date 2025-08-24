@@ -1,16 +1,21 @@
 {
-    "name": "ivanwilliammd/satusehat-integration",
+    "name": "daengdeni/satusehat-integration",
     "description": "Build SATUSEHAT FHIR Object in Easy Way",
     "keywords": [
+        "daengdeni",
         "ivanwilliammd",
         "satusehat-integration"
     ],
-    "homepage": "https://github.com/ivanwilliammd/satusehat-integration",
+    "homepage": "https://github.com/daengdeni/satusehat-integration",
     "license": "MIT",
     "authors": [
         {
             "name": "ivanwilliammd",
             "email": "ivanwilliam.md@gmail.com",
+            "role": "Developer"
+        },{
+            "name": "Daeng Deni Mardaeni",
+            "email": "ddeni05@gmail.com",
             "role": "Developer"
         }
     ],
